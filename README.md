@@ -18,3 +18,24 @@ Is given in the code as comments. Do give them a read.
 ## Sample output
 ![Sample realtime output](https://media.giphy.com/media/GLqhPqlTic9nG/200w_d.gif)
 
+https://arxiv.org/pdf/1710.07557.pdf
+
+https://appliedmachinelearning.blog/2018/11/28/demonstration-of-facial-emotion-recognition-on-real-time-video-using-cnn-python-keras/
+
+https://arxiv.org/pdf/1710.07557.pdf
+
+https://arxiv.org/pdf/1710.07557.pdf
+
+The links that are referred to in the blog:
+
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+https://github.com/abhijeet3922/FaceEmotion_ID/blob/master/csv_to_images.py
+
+https://appliedmachinelearning.blog/2018/03/24/achieving-90-accuracy-in-object-recognition-task-on-cifar-10-dataset-with-keras-convolutional-neural-networks/
+
+https://github.com/abhijeet3922/FaceEmotion_ID/blob/master/real_time_video.py
+
+https://github.com/oarriaga/face_classification
+
+https://github.com/omar178/Emotion-recognition
